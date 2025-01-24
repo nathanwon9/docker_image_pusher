@@ -6,3 +6,4 @@ nextcloud
 oaooa/pichome
 xhofe/alist-aria2
 xiaoyaliu/alist
+seafileltd/sdoc-server:1.0-latest
